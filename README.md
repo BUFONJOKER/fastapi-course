@@ -43,7 +43,7 @@ cd fastapi-course
 2. **Create a uv project (optional but recommended):**
 
 ```bash
-uv init fastapi-course
+uv init
 ```
 
 3. **Install dependencies:**
