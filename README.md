@@ -135,9 +135,4 @@ GET /sort?sort_by=bmi&order_by=desc
 
 This project is licensed under the **MIT License**
 
-```
-
 ---
-
-
-```
